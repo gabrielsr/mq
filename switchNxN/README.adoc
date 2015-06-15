@@ -16,7 +16,7 @@ Neste repo uma Simulação para p = 0.6, N=20
 
 Run
 ===
-Install Maven3.
+Install Maven3 and in the root of this project:
 
  $ mvn compile
  $ mvn exec:java -Dexec.mainClass="br.unb.cic.mq.Expr1"
