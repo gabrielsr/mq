@@ -1,0 +1,14 @@
+Questão
+=======
+Considere um “switch” de N portas de entrada e N portas de saída (NxN). O sistema opera com o  tempo dividido em intervalos (“time slots”). Um pacote chega em qualquer “time slo
+t” numa porta  de entrada com probabilidade p, independente de outros “time slots” e das outras portas de entrada. 
+
+Assuma uma probabilidade de roteamento uniforme (i.e., um pacote que chegou em uma dada porta  de entrada vai para qualquer porta de saída com 
+probabilidade igual (igualmente provavel). Qual é a probabilidade de exatamente n (n < N) pacotes irem para
+ uma porta de saída qualquer num “time slot”.
+
+
+Simulação
+=========
+
+Neste repo uma Simulação para p = 0.6, N=20
